@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "eodFunc"
-version = "0.01"
+version = "0.02"
 authors = [
   { name="dylan marsella", email="dylanmarsella1@gmail.com" },
 ]
